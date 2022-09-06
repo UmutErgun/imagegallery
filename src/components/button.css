@@ -1,0 +1,19 @@
+
+.buttonStyle {
+
+    display: flex;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    width: 200px;
+    min-width: 100px;
+    margin-left: 10px;
+}
+
+.buttonStyle h1 {
+    font-size: 12px;
+    letter-spacing: 0.9px;
+    background-color: #f9d3b4;
+}
